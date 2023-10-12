@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1697081013 source:c:\cs101programs\cs250hw2\main.cpp
+	<iostream>
+	"Professor.h"
+	"Student.h"
+
+1697081220 source:c:\cs101programs\cs250hw2\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1697081196 c:\cs101programs\cs250hw2\include\student.h
+	<Person.h>
+	<string>
+
+1697077208 c:\cs101programs\cs250hw2\include\person.h
+	<string>
+
+1697078183 source:c:\cs101programs\cs250hw2\src\person.cpp
+	"Person.h"
+	<string>
+
+1697079909 source:c:\cs101programs\cs250hw2\src\professor.cpp
+	"Professor.h"
+
+1697079965 c:\cs101programs\cs250hw2\include\professor.h
+	<Person.h>
+
