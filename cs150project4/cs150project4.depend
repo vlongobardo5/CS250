@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699846990 source:c:\cs101programs\cs150project4\main.cpp
+	<iostream>
+	<stack>
+	"EvenStack.h"
+
+1699846897 source:c:\cs101programs\cs150project4\src\evenstack.cpp
+	"EvenStack.h"
+	<stack>
+	<iostream>
+
+1699846140 c:\cs101programs\cs150project4\include\evenstack.h
+	<stack>
+	<iostream>
+
