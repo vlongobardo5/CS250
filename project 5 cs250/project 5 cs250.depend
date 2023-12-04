@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701663246 source:c:\cs101programs\project 5 cs250\main.cpp
+	<iostream>
+	"Dogs.h"
+	<unordered_map>
+
+1701662827 c:\cs101programs\project 5 cs250\include\dogs.h
+	<string>
+	<unordered_map>
+
