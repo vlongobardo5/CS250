@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702597504 source:c:\cs101programs\cs250project6\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+
